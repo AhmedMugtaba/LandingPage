@@ -195,7 +195,7 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 100px;
-  background-color: #dbe4ff;
+  background-color: #212529;
   font-size: 14px;
 }
 
@@ -333,8 +333,8 @@ a {
   -ms-flex-align: center;
   align-items: center;
   border-radius: 8px;
-  background-color: #edf2ff;
-  color: #364fc7;
+  background-color: #D8E9C7;
+  color: #D8E9C7;
   font-weight: 600;
 }
 
@@ -345,7 +345,7 @@ a {
 }
 
 .button.main {
-  background-color: #4263eb;
+  background-color: #64A820;
   box-shadow: 0 4px 4px -2px rgba(0, 0, 0, 0.1), 0 8px 16px 0 rgba(0, 0, 0, 0.1);
   color: #fff;
 }
@@ -366,7 +366,7 @@ a {
 
 .button.xl.main.white {
   background-color: #fff;
-  color: #364fc7;
+  color: #64A820;
 }
 
 .icon {
@@ -477,7 +477,7 @@ a {
 }
 
 .section.main {
-  background-color: #4263eb;
+  background-color: #64A820;
   color: #fff;
 }
 
@@ -485,10 +485,10 @@ a {
   background-color: #fff;
 }
 
-.bg-gradient {
+ .bg-gradient {
   background-image: -webkit-gradient(linear, left top, left bottom, color-stop(25%, #fff), to(hsla(0, 0%, 100%, 0)));
   background-image: linear-gradient(180deg, #fff 25%, hsla(0, 0%, 100%, 0));
-}
+} 
 
 .text-giga {
   font-size: 64px;
@@ -557,8 +557,6 @@ a {
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#fff), to(hsla(0, 0%, 100%, 0)));
-  background-image: linear-gradient(180deg, #fff, hsla(0, 0%, 100%, 0));
 }
 
 .buffer {
@@ -602,7 +600,7 @@ a {
   height: 300%;
   margin-left: -100%;
   border-radius: 100%;
-  background-color: #edf2ff;
+  background-color: #D8E9C7;
 }
 
 .mt-2xl-n {
@@ -683,7 +681,7 @@ a {
   border-radius: 19px;
   background-color: #fff;
   box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1), 0 8px 16px 0 rgba(0, 0, 0, 0.1);
-  color: #495057;
+  color: #D8E9C7;
   font-size: 12px;
   font-weight: 400;
 }
