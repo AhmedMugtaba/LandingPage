@@ -851,7 +851,7 @@ a {
     font-size: 20px;
   }
   .product-shot {
-    margin-top: -120px;
+    display: none;
   }
   .logo-container {
     padding-right: 13px;
