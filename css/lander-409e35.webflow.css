@@ -864,5 +864,15 @@ a {
   .test-giga.text-center {
     font-size: 38px;
   }
+  .max-w-lg.mb-xl.footer-header {
+    display: none;
+  }
+
+.mt-md {
+  text-align: center;
+  }
+.mt-md-footer {
+  display: none;
+}
 }
 
